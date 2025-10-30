@@ -9,3 +9,351 @@
     size: Tiny
   - type: Sprite
     sprite: _Sunrise/Objects/Devices/tapes.rsi
+
+- type: entity
+  parent: BaseMusicTape
+  id: MusicTape1
+  name: кассета магнитофона (Sunset by PigeonBeans)
+  description:
+  components:
+  - type: Sprite
+    state: tape1
+  - type: MusicTape
+    songName: Sunset by PigeonBeans
+    sound: /Audio/_Sunrise/TapePlayer/Tracks/sunset.ogg
+
+- type: entity
+  parent: BaseMusicTape
+  id: MusicTape2
+  name: кассета INVISIBLE
+  description:
+  components:
+  - type: Sprite
+    state: tape2
+  - type: MusicTape
+    songName: INVISIBLE
+    sound: /Audio/_Sunrise/TapePlayer/Tracks/INVISIBLE.ogg
+
+- type: entity
+  parent: BaseMusicTape
+  id: MusicTape3
+  name: кассета An Old Foe
+  description:
+  components:
+  - type: Sprite
+    state: tape3
+  - type: MusicTape
+    songName: An Old Foe
+    sound: /Audio/_Sunrise/TapePlayer/Tracks/AnOldFoe.ogg
+
+- type: entity
+  parent: BaseMusicTape
+  id: MusicTape4
+  name: кассета bhop
+  description:
+  components:
+  - type: Sprite
+    state: tape4
+  - type: MusicTape
+    songName: bhop
+    sound: /Audio/_Sunrise/TapePlayer/Tracks/bhop.ogg
+
+- type: entity
+  parent: BaseMusicTape
+  id: MusicTape5
+  name: кассета Бич Я Борат
+  description:
+  components:
+  - type: Sprite
+    state: tape5
+  - type: MusicTape
+    songName: Бич Я Борат
+    sound: /Audio/_Sunrise/TapePlayer/Tracks/BichYaBarat.ogg
+
+- type: entity
+  parent: BaseMusicTape
+  id: MusicTape6
+  name: кассета Bing Chilling
+  description:
+  components:
+  - type: Sprite
+    state: tape6
+  - type: MusicTape
+    songName: Bing Chilling
+    sound: /Audio/_Sunrise/TapePlayer/Tracks/BingChilling.ogg
+
+- type: entity
+  parent: BaseMusicTape
+  id: MusicTape7
+  name: кассета Black Betty
+  description:
+  components:
+  - type: Sprite
+    state: tape7
+  - type: MusicTape
+    songName: Black Betty
+    sound: /Audio/_Sunrise/TapePlayer/Tracks/BlackBetty.ogg
+
+- type: entity
+  parent: BaseMusicTape
+  id: MusicTape8
+  name: кассета китайский реп
+  description:
+  components:
+  - type: Sprite
+    state: tape8
+  - type: MusicTape
+    songName: китайский реп
+    sound: /Audio/_Sunrise/TapePlayer/Tracks/chinaRep.ogg
+
+- type: entity
+  parent: BaseMusicTape
+  id: MusicTape9
+  name: кассета Countdown
+  description:
+  components:
+  - type: Sprite
+    state: tape9
+  - type: MusicTape
+    songName: Countdown
+    sound: /Audio/_Sunrise/TapePlayer/Tracks/Countdown.ogg
+
+- type: entity
+  parent: BaseMusicTape
+  id: MusicTape10
+  name: кассета Crazy Dave Rap
+  description:
+  components:
+  - type: Sprite
+    state: tape10
+  - type: MusicTape
+    songName: Crazy Dave Rap
+    sound: /Audio/_Sunrise/TapePlayer/Tracks/CrazyDaveRap.ogg
+
+- type: entity
+  parent: BaseMusicTape
+  id: MusicTape11
+  name: кассета не ебу
+  description:
+  components:
+  - type: Sprite
+    state: tape11
+  - type: MusicTape
+    songName: не ебу
+    sound: /Audio/_Sunrise/TapePlayer/Tracks/dlinoeSlishkom.ogg
+
+- type: entity
+  parent: BaseMusicTape
+  id: MusicTape12
+  name: кассета Цветы тёмный принц
+  description:
+  components:
+  - type: Sprite
+    state: tape12
+  - type: MusicTape
+    songName: Цветы тёмный принц
+    sound: /Audio/_Sunrise/TapePlayer/Tracks/flowers.ogg
+
+- type: entity
+  parent: BaseMusicTape
+  id: MusicTape13
+  name: кассета How do you do
+  description:
+  components:
+  - type: Sprite
+    state: tape13
+  - type: MusicTape
+    songName: How do you do
+    sound: /Audio/_Sunrise/TapePlayer/Tracks/HowDoYouDo.ogg
+
+- type: entity
+  parent: BaseMusicTape
+  id: MusicTape14
+  name: кассета huh
+  description:
+  components:
+  - type: Sprite
+    state: tape14
+  - type: MusicTape
+    songName: huh
+    sound: /Audio/_Sunrise/TapePlayer/Tracks/huh.ogg
+
+- type: entity
+  parent: BaseMusicTape
+  id: MusicTape15
+  name: кассета Loose Cannon
+  description:
+  components:
+  - type: Sprite
+    state: tape15
+  - type: MusicTape
+    songName: Loose Cannon
+    sound: /Audio/_Sunrise/TapePlayer/Tracks/LooseCannon.ogg
+
+- type: entity
+  parent: BaseMusicTape
+  id: MusicTape16
+  name: кассета МАРШАЛ БРИТАНСКИЙ
+  description:
+  components:
+  - type: Sprite
+    state: tape16
+  - type: MusicTape
+    songName: МАРШАЛ БРИТАНСКИЙ
+    sound: /Audio/_Sunrise/TapePlayer/Tracks/MARSHAL.ogg
+
+- type: entity
+  parent: BaseMusicTape
+  id: MusicTape17
+  name: кассета Mexican Song
+  description:
+  components:
+  - type: Sprite
+    state: tape17
+  - type: MusicTape
+    songName: Mexican Song
+    sound: /Audio/_Sunrise/TapePlayer/Tracks/MexicanSong.ogg
+
+- type: entity
+  parent: BaseMusicTape
+  id: MusicTape18
+  name: кассета Nightcall
+  description:
+  components:
+  - type: Sprite
+    state: tape18
+  - type: MusicTape
+    songName: Nightcall
+    sound: /Audio/_Sunrise/TapePlayer/Tracks/Nightcall.ogg
+
+- type: entity
+  parent: BaseMusicTape
+  id: MusicTape19
+  name: кассета овердоз
+  description:
+  components:
+  - type: Sprite
+    state: tape19
+  - type: MusicTape
+    songName: овердоз
+    sound: /Audio/_Sunrise/TapePlayer/Tracks/overdoz.ogg
+
+- type: entity
+  parent: BaseMusicTape
+  id: MusicTape20
+  name: кассета penis music
+  description:
+  components:
+  - type: Sprite
+    state: tape20
+  - type: MusicTape
+    songName: penis music
+    sound: /Audio/_Sunrise/TapePlayer/Tracks/PenisMusic.ogg
+
+- type: entity
+  parent: BaseMusicTape
+  id: MusicTape21
+  name: кассета Sh-boom
+  description:
+  components:
+  - type: Sprite
+    state: tape21
+  - type: MusicTape
+    songName: Sh-boom
+    sound: /Audio/_Sunrise/TapePlayer/Tracks/shBoom.ogg
+
+- type: entity
+  parent: BaseMusicTape
+  id: MusicTape22
+  name: кассета супермаркет мэдкид
+  description:
+  components:
+  - type: Sprite
+    state: tape22
+  - type: MusicTape
+    songName: супермаркет мэдкид
+    sound: /Audio/_Sunrise/TapePlayer/Tracks/supermarket.ogg
+
+- type: entity
+  parent: BaseMusicTape
+  id: MusicTape23
+  name: кассета Tanc A Lelek
+  description:
+  components:
+  - type: Sprite
+    state: tape23
+  - type: MusicTape
+    songName: Tanc A Lelek
+    sound: /Audio/_Sunrise/TapePlayer/Tracks/TancaLelek.ogg
+
+- type: entity
+  parent: BaseMusicTape
+  id: MusicTape24
+  name: кассета The Cat
+  description:
+  components:
+  - type: Sprite
+    state: tape24
+  - type: MusicTape
+    songName: The Cat
+    sound: /Audio/_Sunrise/TapePlayer/Tracks/theCat.ogg
+
+- type: entity
+  parent: BaseMusicTape
+  id: MusicTape25
+  name: кассета This FFFire
+  description:
+  components:
+  - type: Sprite
+    state: tape25
+  - type: MusicTape
+    songName: This FFFire
+    sound: /Audio/_Sunrise/TapePlayer/Tracks/ThisFffire.ogg
+
+- type: entity
+  parent: BaseMusicTape
+  id: MusicTape26
+  name: кассета Tobu Candyland
+  description:
+  components:
+  - type: Sprite
+    state: tape26
+  - type: MusicTape
+    songName: Toby Candyland
+    sound: /Audio/_Sunrise/TapePlayer/Tracks/TobuCandyland.ogg
+
+- type: entity
+  parent: BaseMusicTape
+  id: MusicTape27
+  name: кассета Tom Tom
+  description:
+  components:
+  - type: Sprite
+    state: tape27
+  - type: MusicTape
+    songName: Tom Tom
+    sound: /Audio/_Sunrise/TapePlayer/Tracks/TomTom.ogg
+
+- type: entity
+  parent: BaseMusicTape
+  id: MusicTape28
+  name: кассета Wait C418
+  description:
+  components:
+  - type: Sprite
+    state: tape28
+  - type: MusicTape
+    songName: Wait C418
+    sound: /Audio/_Sunrise/TapePlayer/Tracks/WaitC418.ogg
+
+- type: entity
+  parent: BaseMusicTape
+  id: MusicTape29
+  name: кассета web 2.0
+  description:
+  components:
+  - type: Sprite
+    state: tape29
+  - type: MusicTape
+    songName: web 2.0
+    sound: /Audio/_Sunrise/TapePlayer/Tracks/web2.ogg
